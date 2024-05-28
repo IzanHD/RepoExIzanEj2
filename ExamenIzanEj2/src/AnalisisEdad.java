@@ -32,4 +32,8 @@ public class AnalisisEdad {
 		return cadena;
 		
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> refs/heads/funcionalidadClase
